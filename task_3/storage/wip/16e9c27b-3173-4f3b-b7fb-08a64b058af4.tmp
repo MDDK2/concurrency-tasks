@@ -1,0 +1,93 @@
+{
+	"ID": "16e9c27b-3173-4f3b-b7fb-08a64b058af4",
+	"FilePath": "./storage/wip/test_game_data.csv",
+	"OutputFilePath": "./storage/wip/test_game_data.csv",
+	"ProcessedRecords": [
+		null,
+		null,
+		[
+			"altered intensively!: 124",
+			"altered intensively!: Game_2",
+			"altered intensively!: Description_2",
+			"altered intensively!: 02/02/92"
+		],
+		[
+			"altered intensively!: 125",
+			"altered intensively!: Game_3",
+			"altered intensively!: Description_3",
+			"altered intensively!: 03/02/92"
+		],
+		null,
+		null,
+		[
+			"altered intensively!: 128",
+			"altered intensively!: Game_6",
+			"altered intensively!: Description_6",
+			"altered intensively!: 06/02/92"
+		],
+		null,
+		null,
+		[
+			"altered intensively!: 131",
+			"altered intensively!: Game_9",
+			"altered intensively!: Description_9",
+			"altered intensively!: 09/02/92"
+		],
+		[
+			"altered intensively!: 132",
+			"altered intensively!: Game_10",
+			"altered intensively!: Description_10",
+			"altered intensively!: 10/02/92"
+		],
+		null,
+		[
+			"altered intensively!: 134",
+			"altered intensively!: Game_12",
+			"altered intensively!: Description_12",
+			"altered intensively!: 12/02/92"
+		],
+		null,
+		[
+			"altered intensively!: 136",
+			"altered intensively!: Game_14",
+			"altered intensively!: Description_14",
+			"altered intensively!: 14/02/92"
+		],
+		[
+			"altered intensively!: 137",
+			"altered intensively!: Game_15",
+			"altered intensively!: Description_15",
+			"altered intensively!: 15/02/92"
+		],
+		[
+			"altered intensively!: 138",
+			"altered intensively!: Game_16",
+			"altered intensively!: Description_16",
+			"altered intensively!: 16/02/92"
+		],
+		[
+			"altered intensively!: 139",
+			"altered intensively!: Game_17",
+			"altered intensively!: Description_17",
+			"altered intensively!: 17/02/92"
+		],
+		[
+			"altered intensively!: 140",
+			"altered intensively!: Game_18",
+			"altered intensively!: Description_18",
+			"altered intensively!: 18/02/92"
+		],
+		[
+			"altered intensively!: 141",
+			"altered intensively!: Game_19",
+			"altered intensively!: Description_19",
+			"altered intensively!: 19/02/92"
+		],
+		[
+			"altered intensively!: 142",
+			"altered intensively!: Game_20",
+			"altered intensively!: Description_20",
+			"altered intensively!: 20/02/92"
+		]
+	]
+}
